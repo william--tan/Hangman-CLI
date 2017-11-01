@@ -1,0 +1,121 @@
+panda
+cat
+moth
+moose
+water buffalo
+caterpillar
+albatross
+duck
+mouse
+salamander
+Canadian goose
+rat
+aardvark
+joey
+robin
+horse
+koala
+black bear
+hippopotamus
+camel
+cougar
+giraffe
+bald eagle
+crocodile
+dog
+bird
+penguin
+pony bat
+otter
+porcupine
+dolphin
+hamster
+chameleon
+swordfish
+groundhog
+cricket
+clownfish
+gila monster
+leopard
+rabbit
+shark
+stallion
+wombat
+kitten
+reindeer
+wolf
+dragon
+blue whale
+hyena
+unicorn
+tuna
+platypus
+basset hound
+shrimp
+skunk
+bulldong
+ladybug
+beaver
+puppy
+weasel
+owl
+chipmunk
+lamb
+tiger
+doe
+ewe
+pelican
+ape
+sheep dog
+partridge
+hedgehog
+cow
+spider
+turtle
+alligator
+seahorse
+sea turtle
+llama
+hive
+lion
+armadillo
+herd
+gopher
+three-toed sloth
+elk
+fox
+guinea pig
+sea lion
+donkey
+frog
+crow
+zebra
+toad
+worm
+panther
+chichilla
+flock
+chimpanzee
+calf
+school of fish
+warthog
+cub
+seagull
+parakeet
+chicken
+toucan
+deer
+lobster
+dove
+walrus
+komodo dragon
+jellyfish
+crab
+tortoise
+duckling
+wasp
+squirrel
+wildebeest
+catfish
+
+

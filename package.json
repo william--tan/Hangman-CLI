@@ -1,0 +1,21 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hangman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cfonts": "^1.1.3",
+    "clear": "0.0.1",
+    "fs": "0.0.1-security",
+    "inquirer": "^3.3.0",
+    "inquirer-promise": "^1.0.0",
+    "request": "^2.83.0",
+    "spotify-web-api-node": "^2.5.0",
+    "underscore": "^1.8.3"
+  }
+}
